@@ -6,7 +6,7 @@
 
 ---
 
-<div text-aling="center">##About Me<div>
+##About Me
 
 I am a **Systems Engineering** student with experience building full-stack applications and distributed database systems. I enjoy writing clean code, thinking about scalable architectures, and learning something new with every project.
 
