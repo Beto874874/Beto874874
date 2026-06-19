@@ -39,7 +39,7 @@
   <text x="48" y="72" font-family="monospace" font-size="13" fill="#00f5a0" opacity="0.5">~/portfolio $</text>
 
   <!-- Main name -->
-  <text x="48" y="112" font-family="'Courier New', monospace" font-size="38" font-weight="700" fill="#ffffff" filter="url(#glow)" letter-spacing="1">Juan Alberto Trujillo</text>
+  <text x="48" y="112" font-family="'Courier New', monospace" font-size="38" font-weight="700" fill="#ffffff" filter="url(#glow)" letter-spacing="1">Juan Alberto Trujillo Herrera</text>
 
   <!-- Subtitle with accent color -->
   <text x="52" y="140" font-family="monospace" font-size="14" fill="url(#accent)" letter-spacing="2">Systems Engineering Student  |  Full-Stack Developer</text>
