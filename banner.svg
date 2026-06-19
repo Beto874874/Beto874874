@@ -1,0 +1,49 @@
+<svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0d0d"/>
+      <stop offset="100%" style="stop-color:#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00f5a0"/>
+      <stop offset="100%" style="stop-color:#00d9f5"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="180" fill="url(#bg)"/>
+
+  <!-- Subtle grid lines -->
+  <g stroke="#ffffff08" stroke-width="1">
+    <line x1="0" y1="36" x2="900" y2="36"/>
+    <line x1="0" y1="72" x2="900" y2="72"/>
+    <line x1="0" y1="108" x2="900" y2="108"/>
+    <line x1="0" y1="144" x2="900" y2="144"/>
+    <line x1="180" y1="0" x2="180" y2="180"/>
+    <line x1="360" y1="0" x2="360" y2="180"/>
+    <line x1="540" y1="0" x2="540" y2="180"/>
+    <line x1="720" y1="0" x2="720" y2="180"/>
+  </g>
+
+  <!-- Accent line top -->
+  <rect x="0" y="0" width="900" height="3" fill="url(#accent)"/>
+
+  <!-- Terminal prompt decoration -->
+  <text x="48" y="72" font-family="monospace" font-size="13" fill="#00f5a0" opacity="0.5">~/portfolio $</text>
+
+  <!-- Main name -->
+  <text x="48" y="112" font-family="'Courier New', monospace" font-size="38" font-weight="700" fill="#ffffff" filter="url(#glow)" letter-spacing="1">Juan Alberto Trujillo</text>
+
+  <!-- Subtitle with accent color -->
+  <text x="52" y="140" font-family="monospace" font-size="14" fill="url(#accent)" letter-spacing="2">Systems Engineering Student  |  Full-Stack Developer</text>
+
+  <!-- Accent line bottom -->
+  <rect x="0" y="177" width="900" height="3" fill="url(#accent)"/>
+</svg>
