@@ -10,15 +10,7 @@
 
 ## About Me
 
-I am a **Systems Engineering** student with experience building full-stack applications and distributed database systems. I enjoy writing clean code, thinking about scalable architectures, and learning something new with every project.
-
-Student of Systems Engineering — 5th semester
-&nbsp;&nbsp;|&nbsp;&nbsp;
-Passionate about software design and databases
-&nbsp;&nbsp;|&nbsp;&nbsp;
-Always learning something new
-&nbsp;&nbsp;|&nbsp;&nbsp;
-Colombia
+Hi, I'm Juan Alberto. I like developing software, and I love facing new challenges and solving them by bringing creativity into my code. I also enjoy exploring and learning about new tools that are disrupting the industry. I specialize in web development and building robust, scalable backend architectures and databases.
 
 </div>
 
