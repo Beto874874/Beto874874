@@ -58,33 +58,6 @@ Soy estudiante de **Ingeniería de Sistemas** con experiencia construyendo aplic
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
----
-
-## 🚀 Proyectos Destacados
-
-### 🎮 [Biblioteca de Videojuegos](https://github.com/Beto874874)
-Sistema distribuido de gestión de videojuegos con arquitectura en capas.
-- **SQLite** → categorías y administración local
-- **PostgreSQL** → usuarios, juegos y compras (particionado horizontal por año)
-- **MongoDB** → reseñas y listas de deseos con sharding y replica sets
-- Stack: `Python` · `PeeWee ORM` · `psycopg2` · `pymongo` · Patrón Command + Undo/Redo
-
-### 🏨 [Prisma Hotel](https://github.com/Beto874874/prisma-hotel)
-Aplicación web full-stack de reservas hoteleras con autenticación y panel admin.
-- Stack PERN: `PostgreSQL` · `Express` · `React + Vite` · `Node.js`
-- Auth con JWT + bcrypt · Roles cliente/admin · Subida de imágenes con Multer
-- Testing completo: Playwright E2E · Jest unit · Postman API · JMeter performance
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Beto874874&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=94d2bd&icon_color=94d2bd&text_color=ffffff&rank_icon=github"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beto874874&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=94d2bd&text_color=ffffff"/>
-</div>
-
----
 
 ## 📬 Contacto
 
