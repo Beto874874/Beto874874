@@ -5,17 +5,22 @@
 </div>
 
 ---
-<strong> 
-<div align="center" >
-  About Me
-</div>
-</strong>
+
+<div align="center">
+
+## About Me
+
 I am a **Systems Engineering** student with experience building full-stack applications and distributed database systems. I enjoy writing clean code, thinking about scalable architectures, and learning something new with every project.
 
-- Student of Systems Engineering — 5th semester
-- Passionate about software design and databases
-- Always learning something new
-- Colombia
+Student of Systems Engineering — 5th semester
+&nbsp;&nbsp;|&nbsp;&nbsp;
+Passionate about software design and databases
+&nbsp;&nbsp;|&nbsp;&nbsp;
+Always learning something new
+&nbsp;&nbsp;|&nbsp;&nbsp;
+Colombia
+
+</div>
 
 ---
 
@@ -52,6 +57,7 @@ I am a **Systems Engineering** student with experience building full-stack appli
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
