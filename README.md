@@ -1,7 +1,5 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Juan%20Alberto%20Trujillo&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineering%20Student%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=16&descColor=94d2bd&animation=fadeIn"/>
-
+<img width="100%" src="./banner.svg"/>
 </div>
 
 ---
