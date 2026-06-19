@@ -20,7 +20,7 @@ Soy estudiante de **Ingeniería de Sistemas** con experiencia construyendo aplic
 
 ## 🛠️ Stack Tecnológico
 
-### 💻 Lenguajes
+### Lenguajes
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -29,7 +29,7 @@ Soy estudiante de **Ingeniería de Sistemas** con experiencia construyendo aplic
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### ⚙️ Frameworks & Librerías
+### Frameworks & Librerías
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
