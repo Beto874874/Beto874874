@@ -2,7 +2,6 @@
 <img width="100%" src="./banner.svg"/>
 </div>
 
----
 
 <div align="center">
 
@@ -51,10 +50,11 @@ Hi, I'm Juan Alberto. I like developing software, and I love facing new challeng
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
+
 ---
-
+ 
 ## Contact
-
+ 
 <p align="center">
   <a href="mailto:juanaaa874@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -70,7 +70,3 @@ Hi, I'm Juan Alberto. I like developing software, and I love facing new challeng
 </p>
 
 ---
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
-</div>
